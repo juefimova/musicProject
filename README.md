@@ -1,6 +1,6 @@
 # Music App
 
-This is a music application built with Kotlin that allows users to discover and listen to music, with horizontal and vertical lists, sorting options for recommendation, popular, and new music, and a bottom navigation bar.
+This is a music application built with Kotlin that allows users to discover music, with horizontal and vertical lists, sorting options for recommendation, popular, and new music, and a bottom navigation bar.
 
 ## Features
 
