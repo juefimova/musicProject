@@ -34,8 +34,6 @@ git clone
 
 5. Sort songs by recommendation, popularity, or newness using the sorting options.
 
-6. Click on a song to listen to it.
-
 ## Credits
 
 This music application was created by Yuliya Yafimava.
